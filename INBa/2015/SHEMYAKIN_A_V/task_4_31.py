@@ -6,4 +6,4 @@ age = "127"
 print ("Возраст (со дня рождения): "+age);
 print ("Сфера интересов: литература, поэзия");
 
-print ("Press Enter to exit");
+input ("Press Enter to exit");
